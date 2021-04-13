@@ -1,0 +1,16 @@
+.load_container{
+    margin-top: 100px;
+    height: 100vh;
+    width: 100vw;
+}
+
+.loadsize
+{
+    height: 100vh !important;
+}
+
+.text_loader_size
+{
+    height: 100px !important;
+    width: 100px;
+}

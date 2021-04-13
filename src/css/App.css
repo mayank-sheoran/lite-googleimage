@@ -1,0 +1,12 @@
+.global_container
+{
+    padding-top: 0vh;
+    background-color:gray;
+}
+
+.image_container
+{
+    margin-top: 50px;
+    height: 100vh;
+}
+

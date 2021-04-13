@@ -1,0 +1,28 @@
+.search_container
+{
+    width: 100%;
+    /* margin-top: 50px;
+    margin-left: 50px; */
+}
+
+.search_icon
+{
+    font-size: 80px;
+    margin-right: 10px;
+}
+
+.input_bar{
+    font-size: 20px;
+    margin-top: 20px !important;
+    height: 40px !important;
+    width: 100% !important;
+}
+
+.submit_button
+{
+    margin-top: 30px !important;
+    width: 20% !important;
+    font-size: 40px !important;
+    /* padding: 0 !important; */
+    margin-left: 10px !important;
+}
